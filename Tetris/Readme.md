@@ -26,6 +26,6 @@ A classic **Tetris game clone** built with Python and Pygame. This version featu
 ### Run the Game
 
 ```bash
-git clone https://github.com/yourusername/tetris-pygame.git
+git clone [https://github.com/yourusername/tetris-pygame.git](https://github.com/AnnaFeleki/Games/tree/main/Tetris)
 cd tetris-pygame
 python main.py
